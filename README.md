@@ -1,4 +1,6 @@
 # CHO-DQN-SIMULATION
+[![DOI](https://zenodo.org/badge/1001927217.svg)](https://doi.org/10.5281/zenodo.15662973)
+
 
 ## Abstract
 The impact of Radio link failure (RLF) has been largely ignored in designing handover algorithms, although RLF is a major contributor towards causing handover failure (HF). RLF can cause HF if it is detected during an ongoing handover. The objective of this work is to propose an efficient power control algorithm based on Deep-Q-learning (DQL), considering handover parameters (i.e., time-to-preparation, time-to-execute, preparation offset, execution offset) and radio link monitoring parameters (T310, T311, N310 and N311) as input. The proposed DRL based power control algorithm decides on a possible increase of transmitting power to avoid RLF driven HF. Simulation results show that the traditional conditional handover, when equipped with the proposed DRL based power control algorithm can significantly reduce both RLF and subsequent HF.   
