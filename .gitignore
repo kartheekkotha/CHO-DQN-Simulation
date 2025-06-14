@@ -1,0 +1,10 @@
+results_simulation/*
+*.pth
+train_logs/
+test_logs/
+test_logs_overall/
+*.log
+
+__pycache__/
+*.py[cod]
+*$py.class
